@@ -57,5 +57,6 @@
     const Sol = new Persona('Sol', 'Vasquez')
     Sol.descript()
 
+    //meto un comentario desde mi compu con ssh
 
 })()
